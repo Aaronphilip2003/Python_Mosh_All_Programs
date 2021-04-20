@@ -1,8 +1,8 @@
 word=input('>')
 words=word.split(' ')
 emoji={
-    ":)" : "smile",
-    ":(" : "frown"
+    "😊" : "smile",
+    "☹️" : "frown"
 }
 output=""
 for x in words:
